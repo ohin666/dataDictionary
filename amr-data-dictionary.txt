@@ -1,3 +1,7 @@
+AMR data
+
 representative data
 
+100,000 rows and 12 variables
 
+* id Integer - A unique identifier for each person
