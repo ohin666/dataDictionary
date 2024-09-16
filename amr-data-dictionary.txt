@@ -5,3 +5,7 @@ representative data
 100,000 rows and 12 variables
 
 * id Integer - A unique identifier for each person
+* organism character - disease microbe
+* region character - where was it located
+* coamox Binary - indicates whether specimen was resistant to xxxx 
+* date dateTime - date was found
