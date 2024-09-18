@@ -12,3 +12,6 @@ create_github_token()
 #* this will be in console 
 gitcreds::gitcreds_set()
 
+
+
+usethis::use_github()
